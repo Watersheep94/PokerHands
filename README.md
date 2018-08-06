@@ -17,8 +17,8 @@ Although there were solutions online that solved it in less lines of code, I wan
 
 ## References
 
-*I looked up insertion sort for my `sortCards` method: https://en.wikipedia.org/wiki/Insertion_sort
-*Looked up reading text files: http://www.avajava.com/tutorials/lessons/how-do-i-read-a-string-from-a-file-line-by-line.html
+* I looked up insertion sort for my `sortCards` method: https://en.wikipedia.org/wiki/Insertion_sort
+* Looked up reading text files: http://www.avajava.com/tutorials/lessons/how-do-i-read-a-string-from-a-file-line-by-line.html
 
 ## Time Spent
 
