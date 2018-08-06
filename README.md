@@ -22,4 +22,4 @@ Although there were solutions online that solved it in less lines of code, I wan
 
 ## Time Spent
 
-Spent a good amount of time during the 3-day period on this one, just to iron out the kinks on the OO design and make sure all the logic was sound. Didn't keep track of the hours but estimating at least 3 hours from concept to finished code/tests,
+Spent a good amount of time during the 3-day period on this one, just to iron out the kinks on the OO design and make sure all the logic was sound. I also wasn't very familar with poker so had to spent some time learning the rules of the game and making sure I captured all the nuances in my code. Didn't keep track of the hours but estimating at least 3 hours from concept to finished code/tests.
