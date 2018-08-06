@@ -9,7 +9,7 @@ java -jar PokerHands.jar
 
 ## Why I Chose This Problem
 
-Poker Hands seemed like a good problem to demonstrate knowledge of OOP design ands concepts. In addition, it didn't seem too challeneging in an algorithmic sense so I thought this was a good first problem that Adobe recommended. 
+Poker Hands seemed like a good problem to demonstrate knowledge of OOP design ands concepts. In addition, it didn't seem too challenging in an algorithmic sense so I thought this was a good first problem that was recommended. 
 
 ## Process
 
